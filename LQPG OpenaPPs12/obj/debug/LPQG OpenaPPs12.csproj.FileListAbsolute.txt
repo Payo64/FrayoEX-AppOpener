@@ -1,0 +1,22 @@
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\bin\Debug\LPQG OpenaPPs12.exe
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\bin\Debug\LPQG OpenaPPs12.pdb
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.csproj.AssemblyReference.cache
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG_OpenaPPs12.Properties.Resources.resources
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.csproj.GenerateResource.cache
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.csproj.CoreCompileInputs.cache
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.exe
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.pdb
+C:\Javascripy\LPQG OpenaPPs12\LPQG OpenaPPs12\obj\Debug\LPQG_OpenaPPs12.Form1.resources
+C:\Javascripy\Released Apps\App Opener\LPQG OpenaPPs12.exe
+C:\Javascripy\Released Apps\App Opener\LPQG OpenaPPs12.pdb
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.csproj.AssemblyReference.cache
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG_OpenaPPs12.Form1.resources
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG_OpenaPPs12.Properties.Resources.resources
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.csproj.GenerateResource.cache
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.csproj.CoreCompileInputs.cache
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.exe
+C:\Javascripy\LPQG OpenaPPs12 XP TEST\LPQG OpenaPPs12\obj\Debug\LPQG OpenaPPs12.pdb
+C:\Javascripy\Released Apps\App Opener\LPQG OpenaPPs12.exe.config
+C:\Javascripy\Released Apps\App Opener XP\LPQG OpenaPPs12.exe.config
+C:\Javascripy\Released Apps\App Opener XP\LPQG OpenaPPs12.exe
+C:\Javascripy\Released Apps\App Opener XP\LPQG OpenaPPs12.pdb
