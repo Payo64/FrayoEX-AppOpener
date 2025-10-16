@@ -1,5 +1,5 @@
 # 💾 FrayoEX's App Opener 💾
 
-A lightweight Windows tool that launches selected apps with optional arguments and administrator privileges.
+![App Screenshot](RepoImages/RUN.png)
 
-![App Screenshot](images/screenshot1.png)
+A lightweight app that supports Windows XP+ and the only purpose of this app is to open other EXE apps
